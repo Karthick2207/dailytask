@@ -1,0 +1,19 @@
+Speak for 2 minutes on:
+
+Introduce Yourself
+
+Include:
+- Name
+- College
+- Branch
+- Skills
+- Projects
+- Career goal
+
+Example structure:
+
+My name is A. Karthick.
+I am pursuing Artificial Intelligence and Machine Learning at Muthayammal Engineering College college.
+I am interested in software development and problem solving.
+I have worked on projects like Seminar Hall Booking.
+My goal is to become a software engineer in a product-based company.
